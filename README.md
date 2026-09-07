@@ -42,9 +42,14 @@ What it does: Automatically clicks buttons at timed intervals to complete all pr
 Why you need it: Eliminates the need to manually click for days/weeks/months.
 
 **An interesting application of this would be -  Game Farming Automation**
+
 Repeatedly performing the same action in a game to collect resources, currency, or rewards automatically.
 Instead of clicking manually hundreds or thousands of times, automation does it for you.
+
 All you need to do this:
+
 1.Change the loop count — for i in range(10000): to however many times you want to farm (e.g., for i in range(5000): for 5,000 harvests)
+
 2.Change the wait time — time.sleep(1200) to match your game's cycle time in seconds (e.g., time.sleep(15) if each harvest takes 15 seconds, or time.sleep(1800) if it takes 30 minutes)
+
 That's it! Everything else stays the same — the script will automatically farm for you :)
