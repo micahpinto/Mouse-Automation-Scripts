@@ -17,6 +17,7 @@ Test Scenario: 1,000 cycles with 20 minutes per cycle
                           = 14 days (non-stop)
 
 Manual clicking for 14 days is impossible!
+
 ```
 **The Solution: Automation**
 
