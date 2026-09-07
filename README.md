@@ -18,7 +18,7 @@ Test Scenario: 1,000 cycles with 20 minutes per cycle
 
 Manual clicking for 14 days is impossible!
 ```
-The Solution: Automation
+**The Solution: Automation**
 
 Instead of clicking manually for weeks/months, automate it:
 - Run continuously unattended
@@ -28,7 +28,7 @@ Instead of clicking manually for weeks/months, automate it:
 - Test multiple scenarios simultaneously
 - Collect data automatically
 
-- Scripts Included
+**Scripts Included**
 1. mouse_cordinates.py — Find Button Coordinates
 
 What it does: Identifies the exact pixel location of buttons in the testing interface.
@@ -41,7 +41,7 @@ What it does: Automatically clicks buttons at timed intervals to complete all pr
 
 Why you need it: Eliminates the need to manually click for days/weeks/months.
 
-An interesting application of this would be -  Game Farming Automation
+**An interesting application of this would be -  Game Farming Automation**
 Repeatedly performing the same action in a game to collect resources, currency, or rewards automatically.
 Instead of clicking manually hundreds or thousands of times, automation does it for you.
 All you need to do this:
